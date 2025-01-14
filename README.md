@@ -1,0 +1,2 @@
+# megacubo-flatpak
+Megacubo Flatpak
