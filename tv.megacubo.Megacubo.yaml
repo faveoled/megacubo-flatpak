@@ -28,10 +28,10 @@ modules:
     sources:
 
       - type: archive
-        url: https://github.com/EdenwareApps/Megacubo/releases/download/v17.3.5/Megacubo_17.3.5_linux_x64.tar.gz
+        url: https://github.com/EdenwareApps/Megacubo/releases/download/v17.6.1/Megacubo_17.6.1_linux_x64.tar.gz
         strip-components: 0
         dest: Megacubo
-        sha256: 4faf13004de567ba254f103e26283f85f856efca47ed1696bb6b3a0c4f4b361c
+        sha256: ff681a9bf95a03a5540303267abf8bff8c92e450b2f46b9f14141427913ba6bc
 
 
       - type: file
